@@ -25,6 +25,7 @@ https://www.npmjs.com/package/number-format-without-jquery
 ```javascript
 var demo = require('number-format-without-jquery');
 
+// demo.numberFormat('format', 'input data');
 console.log(demo.numberFormat('0-0000-00000-00-0', 'a1b2c3d4e5f6g7h8i9j0k1l2m3n'));
 console.log(demo.numberFormat('0-0000-00000-00-0', '1234567890123'));
 console.log(demo.numberFormat('0-0000-00000-00-0', '123-45678-90123!@#$%^&*abc'));
