@@ -1,7 +1,7 @@
 {
   "name": "number-format-without-jquery",
-  "version": "1.0.6",
-  "description": "This is mask input data without jquery",
+  "version": "1.0.7",
+  "description": "This is mask input number format data without jquery",
   "main": "index.js",
   "dependencies": {
     "chromedriver": "^2.33.2"
