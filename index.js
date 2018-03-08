@@ -30,3 +30,4 @@ var patternFn = (pattern, input) => {
 // add comment
 // add new comment
 // add new new comment
+// add new new new comment
